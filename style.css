@@ -30,8 +30,7 @@ main {
 
 .video-wrapper {
     position: relative;
-    padding-top: 56.25%;
-    /* 16:9 Aspect Ratio */
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
 }
 
 video {
@@ -60,9 +59,7 @@ footer {
 }
 
 @media (max-width: 600px) {
-
-    header,
-    footer {
+    header, footer {
         padding: 0.5em;
     }
 
